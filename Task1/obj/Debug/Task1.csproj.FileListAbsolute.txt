@@ -5,3 +5,6 @@ C:\Users\Anna\Documents\Visual Studio 2017\Projects\Task1\Task1\obj\Debug\Task1.
 C:\Users\Anna\Documents\Visual Studio 2017\Projects\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
 C:\Users\Anna\Documents\Visual Studio 2017\Projects\Task1\Task1\obj\Debug\Task1.exe
 C:\Users\Anna\Documents\Visual Studio 2017\Projects\Task1\Task1\obj\Debug\Task1.pdb
+D:\game c#\InheritanceTask1\Task1\bin\Debug\Task1.exe.config
+D:\game c#\InheritanceTask1\Task1\obj\Debug\Task1.exe
+D:\game c#\InheritanceTask1\Task1\obj\Debug\Task1.pdb

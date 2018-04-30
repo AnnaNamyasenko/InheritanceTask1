@@ -30,7 +30,7 @@ namespace Task1
             }
         }
 
-        public double FindSummaryPerimeter(List<Figure> figures)
+        public static double FindSummaryPerimeter(List<Figure> figures)
         {
             double summaryPerimeter = 0;
             for (int i = 0; i < figures.Count; i++)
@@ -40,7 +40,7 @@ namespace Task1
             return summaryPerimeter;
         }
 
-        public double FindSummaryArea(List<Figure> figures)
+        public static double FindSummaryArea(List<Figure> figures)
         {
             double summaryArea = 0;
             for (int i = 0; i < figures.Count; i++)
